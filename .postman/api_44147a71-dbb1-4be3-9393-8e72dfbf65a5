@@ -9,6 +9,7 @@ id = 44147a71-dbb1-4be3-9393-8e72dfbf65a5
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"27749494-f7769e26-21bb-417a-af80-717afc0cacfe","path":"Spacecraft .json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Schema\",\"exampleParametersResolution\":\"Schema\"}"}}
 
 [config.relations.collections.metaData]
 
