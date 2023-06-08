@@ -34,6 +34,7 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/Error'
+  /spacecrafts/:                
     post:
       summary: Create a spacecraft
       requestBody:
