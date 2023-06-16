@@ -36,7 +36,7 @@ paths:
                 $ref: '#/components/schemas/Error'
   /spacecrafts/:                
     post:
-      summary: Create a spacecraft
+      summary: Create a spacecraft dff
       requestBody:
         content:
           application/json:
